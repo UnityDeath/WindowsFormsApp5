@@ -9,7 +9,7 @@ namespace WindowsFormsApp5
 {
     public abstract class IImpactPoint
     {
-        public float X; // ну точка же, вот и две координаты
+        public float X; // ну точка же, вот и две координатыs
         public float Y;
 
         // абстрактный метод с помощью которого будем изменять состояние частиц
